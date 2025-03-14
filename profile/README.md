@@ -14,6 +14,7 @@ At Shapescape, we value Open-Source projects and want to give back to the commun
 | Name | Docs | Description|
 |-------|---------|----------|
 | [Shapescape Content Guide Generator](https://github.com/ShapescapeMC/Shapescape-Content-Guide-Generator) | [DOCS](https://shapescape-content-guide-generator.readthedocs.io/en/stable/) | Regolith filter that generates content guides. |
+| [Shapescape Content Guide Generator Containers](https://github.com/ShapescapeMC/Shapescape-Content-Guide-Generator-Containers) | [DOCS](https://shapescape-content-guide-generator-containers.readthedocs.io/en/stable/) | Regolith filter that reads containers from the level and exports them to files readable by the content guide generator. |
 | [Shapescape Content Guide Generator World Settings](https://github.com/ShapescapeMC/Shapescape-Content-Guide-Generator-World-Settings) | [DOCS](https://shapescape-content-guide-generator-world-settings.readthedocs.io/en/stable/) | Addon for the Content Guide Generator Filter that reads data from a the release_config file and pastes this into a world_settings.md template. |
 | [Shapescape Copy Files](https://github.com/ShapescapeMC/Shapescape-Copy-Files) | [DOCS](https://shapescape-copy-files.readthedocs.io/en/stable/) | Regolith filter that copies specified files to a different place on your drive |
 | [Shapescape Easy Glyphs](https://github.com/ShapescapeMC/Shapescape-Easy-Glyphs) | [DOCS](https://shapescape-easy-glyphs.readthedocs.io/en/stable/) | Regolith filter that makes adding custom glyphs easier |
