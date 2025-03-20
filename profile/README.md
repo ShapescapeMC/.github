@@ -25,6 +25,10 @@ At Shapescape, we value Open-Source projects and want to give back to the commun
 | [Shapescape Texture Tools](https://github.com/ShapescapeMC/Shapescape-Texture-Tools) | [DOCS](https://shapescape-texture-tools.readthedocs.io/en/stable/) | Regolith filter for combining and separating textures. |
 | [Shapescape World Settings](https://github.com/ShapescapeMC/Shapescape-World-Settings) | [DOCS](https://shapescape-world-settings.readthedocs.io/en/stable/) | A filter that sets some properties in the level.dat file. Based on the release_config.json file. |
 
+### Scripting APIs
+| Name | Docs | Description|
+|-------|---------|----------|
+| [Shapescape@Storage](https://www.npmjs.com/package/@shapescape/storage) | [DOCS](https://github.com/ShapescapeMC/StorageAPI/blob/main/README.md) | A storage abstraction designed exclusively for Minecraft Bedrock. |
 
 ### Blockbench Plugins
 
