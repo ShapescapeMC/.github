@@ -29,6 +29,7 @@ At Shapescape, we value Open-Source projects and want to give back to the commun
 | Name | Docs | Description|
 |-------|---------|----------|
 | [Shapescape@Storage](https://www.npmjs.com/package/@shapescape/storage) | [DOCS](https://github.com/ShapescapeMC/StorageAPI/blob/main/README.md) | A storage abstraction designed exclusively for Minecraft Bedrock. |
+| [Shapescape@Space](https://www.npmjs.com/package/@shapescape/space) | [DOCS](https://github.com/ShapescapeMC/SpaceAPI/blob/main/README.md) | A collection of geometry and world utility classes designed exclusively for Minecraft Bedrock. |
 
 ### Blockbench Plugins
 
